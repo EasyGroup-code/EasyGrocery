@@ -38,7 +38,7 @@ function App() {
             <button className="sidebar-close-button" onClick={closeMenu}>X</button>
             <ul >
                 <li>
-                    <a href="index.html">rice</a>
+                    <Link to="/">rice</Link>
                 </li>
                 <li>
                     <a href="index.html">Wheat</a>
